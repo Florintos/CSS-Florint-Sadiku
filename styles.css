@@ -51,11 +51,11 @@ a:hover {
 }
 
 .cloud {
-  height: 10rem;
-  width: 10rem;
-  position: relative;
-  left: 12.5rem;
-  top: 27rem;
+    height: 9rem;
+    width: 9rem;
+    position: absolute;
+    right: 12.5rem;
+    bottom: 15rem;
 }
 
 .profile-pic {
